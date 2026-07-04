@@ -1,0 +1,33 @@
+{
+    "Ventas":
+    [
+        {
+            "id": 1,
+            "direccion_compra": "P Sherman Calle Wallabi 42 Syndey",
+            "valor_compra": 22990,
+            "fecha_compra": "2024-02-02",
+            "despacho_generado": false
+        },
+        {
+            "id": 2,
+            "direccion_compra": "Avenida siempre viva 69",
+            "valor_compra": 12590,
+            "fecha_compra": "2024-03-05",
+            "despacho_generado": false
+        },
+        {
+            "id": 3,
+            "direccion_compra": "Avenida Por atrás 1313",
+            "valor_compra": 13990,
+            "fecha_compra": "2024-04-20",
+            "despacho_generado": false
+        },
+        {
+            "id": 4,
+            "direccion_compra": "Calle presidente kirby 8528",
+            "valor_compra": 9990,
+            "fecha_compra": "2024-04-15",
+            "despacho_generado": false
+        }
+    ]
+}
